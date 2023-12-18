@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-
 #define Maximo 50
 typedef char string[Maximo];
 
